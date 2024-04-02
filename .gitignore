@@ -136,3 +136,12 @@ models/*
 
 #config file has sensitive data
 .mlflow_uri
+
+# files
+data/*.csv
+models/*.sav
+mlruns
+#models/*
+data/archive.zip
+data/*
+*.zip
