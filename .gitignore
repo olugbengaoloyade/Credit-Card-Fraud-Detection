@@ -130,6 +130,7 @@ dmypy.json
 
 
 data/*.csv
+data/*.zip
 models/*.sav
 mlruns
 models/*
@@ -143,5 +144,3 @@ models/*.sav
 mlruns
 #models/*
 data/archive.zip
-data/*
-*.zip
