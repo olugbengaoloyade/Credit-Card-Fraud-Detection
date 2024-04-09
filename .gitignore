@@ -144,3 +144,5 @@ models/*.sav
 mlruns
 #models/*
 data/archive.zip
+
+.DS_Store
